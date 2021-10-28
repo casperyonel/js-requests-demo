@@ -9,7 +9,7 @@ let characters = [
     {
         id: 0,
         firstName: 'Jake', 
-        lastName: 'Peralta', 
+        lastName: 'Peralta',
         gender: 'male',
         age: 39, 
         likes: ['Amy', 'Die Hard', 'Taylor Swift']
